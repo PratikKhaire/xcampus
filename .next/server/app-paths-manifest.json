@@ -1,4 +1,5 @@
 {
-  "/student/page": "app/student/page.js",
-  "/sign-in/page": "app/sign-in/page.js"
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(dashboard)/admin/page": "app/(dashboard)/admin/page.js",
+  "/(dashboard)/student/page": "app/(dashboard)/student/page.js"
 }
